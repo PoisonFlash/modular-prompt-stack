@@ -1,0 +1,14 @@
+# Obsidian internals
+.obsidian/workspace*
+.obsidian/cache/
+
+# Corporate/private folders
+*-corp/
+*-corporate/
+*-priv/
+*-private/
+
+# Secrets
+secret/
+secrets/
+*-secret/
