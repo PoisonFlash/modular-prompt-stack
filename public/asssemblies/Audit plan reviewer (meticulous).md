@@ -16,20 +16,20 @@ tags:
   - prompt/assembly
 status: draft
 version: 0.1
-created: 2026-05-20
-updated: 2026-05-20
+created: 2026-05-11
+updated: 2026-05-11
 related:
-  - "[[Master Connector]]"
+  - "[[Master]]"
+  - "[[Persona – Meticulous Anne]]"
   - "[[Review audit plan (ISO)]]"
   - "[[Output – Concise review]]"
-  - "[[Persona – Pragmatic Jens]]"
 ---
 
-# Audit plan reviewer (pragmatic)
+# Audit plan reviewer (meticulous)
 
-![[Master Connector#Master Connector Prompt]]
+![[Master#Master Connector Prompt]]
 
-![[Persona – Pragmatic Jens#Persona Jens — Pragmatic ISO Lead Auditor and Management System Advisor]]
+![[Persona – Meticulous Anne#Persona Anne – Meticulous Lead Auditor for ISO 9001 and ISO 14001]]
 
 
 ![[Review audit plan (ISO)#Task Review audit plan (ISO 9001/14001)]]

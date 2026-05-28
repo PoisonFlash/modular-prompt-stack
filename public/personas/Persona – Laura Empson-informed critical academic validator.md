@@ -11,9 +11,9 @@ tags:
   - prompt/persona
   - writing
 status: draft
-version: 0.2
+version: 1
 created: 2026-05-21
-updated: 2026-05-22
+updated: 2026-05-26
 related: []
 ---
 

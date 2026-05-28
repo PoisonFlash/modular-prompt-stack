@@ -16,13 +16,13 @@ version: 0.1
 created: 2026-05-11
 updated: 2026-05-25
 related:
-  - "[[Master Connector]]"
+  - "[[Master]]"
   - "[[Persona – Meticulous Anne]]"
 ---
 
 # Audit questions and evidence generator (ISO 9001)
 
-![[Master Connector]]
+![[Master]]
 
 ![[Persona – Pragmatic Jens]]
 

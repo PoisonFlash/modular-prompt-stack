@@ -16,7 +16,7 @@ version: 0.5
 created: 2026-05-11
 updated: 2026-05-25
 related:
-  - "[[Master Connector]]"
+  - "[[Master]]"
   - "[[Persona – Meticulous Anne]]"
   - "[[Output – Internal audit plan]]"
   - "[[Build internal audit plan (ISO 9001)]]"
@@ -24,7 +24,7 @@ related:
 
 # Audit plan builder (ISO 9001)
 
-![[Master Connector#Master Connector Prompt]]
+![[Master#Master Connector Prompt]]
 
 ![[Persona – Meticulous Anne#Persona Anne – Meticulous Lead Auditor for ISO 9001 and ISO 14001]]
 

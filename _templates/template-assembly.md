@@ -16,12 +16,12 @@ version: 0.1
 created:
 updated:
 related:
-  - "[[Master Connector]]"
+  - "[[Master]]"
 ---
 
 # assembly-name
 
-![[Master Connector#Master Connector Prompt]]
+![[Master#Master Connector Prompt]]
 
 [Persona]
 

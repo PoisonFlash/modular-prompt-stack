@@ -7,8 +7,13 @@
 *-corporate/
 *-priv/
 *-private/
+corp/
+corporate/
+priv/
+private/
 
 # Secrets
 secret/
 secrets/
 *-secret/
+*-secrets/

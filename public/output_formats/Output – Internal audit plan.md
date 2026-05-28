@@ -20,7 +20,7 @@ version: 0.5
 created: 2026-05-11
 updated: 2026-05-25
 related:
-  - "[[Master Connector]]"
+  - "[[Master]]"
   - "[[Build internal audit plan (ISO 9001)]]"
 ---
 
