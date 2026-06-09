@@ -98,21 +98,30 @@ The Bake should make the final prompt usable by bringing together the text from 
 ### Improve document – simple
 
 Persona: co-author
+
 Task: improve document
+
 Input: text to be improved
 
 **Complexity upgrades**
 Context: dictionary of key terms – secure that approved / established (corporate) terminology is used
+
 Lens: instruction to use specific terminology or specific perspective, e.g., financial view
 
 ### Build audit plan – medium-high complexity
 
 Persona: ISO auditor
+
 Lens: audit plan builder
+
 Task: build audit plan
+
 Context: description of the audited organisation, description of its management system, reference list of ISO clauses, reports from previous audits
+
 Output: audit plan format
+
 Input: description of the audited function
+
 Chat window instruction: apply to {audited function}
 
 ---
