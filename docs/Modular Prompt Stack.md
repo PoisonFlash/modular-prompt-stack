@@ -2,13 +2,13 @@
 type: prompt-module
 module_type: readme
 domain: generic
-standards:
-scope:
+sub-domain:
+references:
 tags:
   - prompt-library
   - readme
 status: draft
-version: 0.3
+version: 0.4
 created: 2026-05-11
 updated: 2026-05-27
 related: []

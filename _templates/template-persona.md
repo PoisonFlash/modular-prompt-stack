@@ -2,8 +2,8 @@
 type: prompt-module
 module_type: persona
 domain:
-standards:
-scope:
+sub-domain:
+references:
 tags:
   - prompt-library
   - prompt/persona

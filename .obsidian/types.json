@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "sub-domain": "text",
+    "standards": "multitext",
+    "scope": "multitext"
+  }
+}
