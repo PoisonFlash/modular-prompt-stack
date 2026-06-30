@@ -1,18 +1,4 @@
----
-type: prompt-module
-module_type: readme
-domain: generic
-sub-domain:
-references:
-tags:
-  - prompt-library
-  - readme
-status: draft
-version: 0.5
-created: 2026-05-11
-updated: 2026-06-30
-related: []
----
+
 # Modular Prompt Stack
 
 A modular prompt library for building structured, reusable AI workflows.
