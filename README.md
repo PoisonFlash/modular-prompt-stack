@@ -1,4 +1,18 @@
-
+---
+type: prompt-module
+module_type: readme
+domain: generic
+sub-domain:
+references:
+tags:
+  - prompt-library
+  - readme
+status: draft
+version: 0.5
+created: 2026-05-11
+updated: 2026-06-30
+related: []
+---
 # Modular Prompt Stack
 
 A modular prompt library for building structured, reusable AI workflows.
@@ -45,15 +59,17 @@ Some parts are still specific to ISO auditing and compliance work. Some are more
 
 Use this repository as a practical prompt library.
 
+Consult [Modular Prompt Stack](docs/Modular%20Prompt%20Stack.md) for use instructions and examples.
+
 The priority is clarity, reuse, and controlled improvement.
 
 ## Tech stack
 
-This repository assumes [[Obsidian]] as the main way of defining and linking prompts: YAML frontmatter, link syntaxis, markdown dialect.
+This repository assumes [Obsidian](https://obsidian.md/) as the main way of defining and linking prompts: YAML frontmatter, link syntaxis, markdown dialect.
 
-Creating `bakes` requires [[Obsidian]] `Easy Bake` plugin or similar. It is also possible to form a bake by exporting ready assemblies to PDF.
+Creating `bakes` requires [Obsidian](https://obsidian.md/) `Easy Bake` plugin or similar. It is also possible to form a bake by exporting ready assemblies to PDF.
 
-It is possible to use the modules without [[Obsidian]]. In such case, build assemblies / bakes by manually copy-paste related modules' text together into one file ignoring frontmatter.
+It is possible to use the modules without [Obsidian](https://obsidian.md/). In such case, build assemblies / bakes by manually copy-paste related modules' text together into one file ignoring frontmatter.
 
 ---
 

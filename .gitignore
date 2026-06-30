@@ -1,6 +1,7 @@
 # Obsidian internals
 .obsidian/workspace*
 .obsidian/cache/
+.obsidian/app.json
 
 # Corporate/private folders
 *-corp/
